@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: block;
+}
+
+header {
+    display: flex;
+    background-color: antiquewhite;
+    width: auto;
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+    align-items: center;
+}
+
+h2 {
+    text-align: center;
+    margin-left: 38%;
+}
+
+main {
+    display: flexbox;
+    margin: 2%;
+    padding-left: 27%;
+}
+
+.box {
+    display: flex;
+    margin-bottom: 0%;
+    padding: 0%;
+}
+
+.button {
+    display: block;
+    margin-left: 40%;
+}
+
+.small-box {
+    width: 200px;
+    height: 200px;
+}

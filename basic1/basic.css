@@ -38,3 +38,15 @@ main {
     width: 200px;
     height: 200px;
 }
+
+footer {
+    background-color: rgb(73, 100, 100);
+    margin: 0%;
+    padding: 0%;
+}
+
+p {
+    text-align: center;
+    margin-left: 38;
+    padding: 2%;
+}
